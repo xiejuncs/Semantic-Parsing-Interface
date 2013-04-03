@@ -1,0 +1,70 @@
+1	David	_	_	NNP	David	_	NNP	2	NAME	_
+2	Hockney	_	_	NNP	Hockney	_	NNP	3	SBJ	_
+3	is	be	_	VBZ	is	be	VBZ	0	ROOT	_
+4	over	_	_	IN	over	_	IN	5	DEP	_
+5	70	_	_	CD	70	_	CD	6	NMOD	_
+6	years	year	_	NNS	years	year	NNS	7	AMOD	_
+7	old	old	_	JJ	old	old	JJ	3	PRD	_
+8	,	_	_	,	,	_	,	7	P	_
+9	and	_	_	CC	and	_	CC	7	COORD	_
+10	very	_	_	RB	very	_	RB	11	AMOD	_
+11	angry	angry	_	JJ	angry	angry	JJ	9	CONJ	_
+12	.	_	_	.	.	_	.	3	P	_
+
+1	With	_	_	IN	With	_	IN	13	ADV	_	_	_	AM-ADV
+2	the	_	_	DT	the	_	DT	3	NMOD	_	_	_	_
+3	passing	passing	_	NN	passing	passing	NN	1	PMOD	passing.01	_	_	_
+4	of	_	_	IN	of	_	IN	3	NMOD	_	A1	_	_
+5	the	_	_	DT	the	_	DT	6	NMOD	_	_	_	_
+6	years	year	_	NNS	years	year	NNS	4	PMOD	_	_	_	_
+7	,	_	_	,	,	_	,	13	P	_	_	_	_
+8	the	_	_	DT	the	_	DT	12	NMOD	_	_	_	_
+9	Sixties	_	_	NNP	Sixties	_	NNP	12	NMOD	_	_	AM-TMP	_
+10	working-class	workingclass	_	JJ	working-class	workingclass	JJ	12	NMOD	_	_	_	_
+11	wonder	wonder	_	NN	wonder	wonder	NN	12	NMOD	_	_	A1	_
+12	boy	boy	_	NN	boy	boy	NN	13	SBJ	boy.01	_	A0	A0
+13	has	have	_	VBZ	has	have	VBZ	0	ROOT	_	_	_	_
+14	metamorphosed	metamorphose	_	VBN	metamorphosed	metamorphose	VBN	13	VC	metamorphose.01	_	_	_
+15	into	_	_	IN	into	_	IN	14	ADV	_	_	_	A2
+16	a	_	_	DT	a	_	DT	19	NMOD	_	_	_	_
+17	very	_	_	RB	very	_	RB	18	AMOD	_	_	_	_
+18	cross	cross	_	JJ	cross	cross	JJ	19	NMOD	_	_	_	_
+19	pensioner	pensioner	_	NN	pensioner	pensioner	NN	15	PMOD	_	_	_	_
+20	.	_	_	.	.	_	.	13	P	_	_	_	_
+
+1	That	_	_	IN	That	_	IN	9	SBJ	_	_	R-A1	_	R-A0	_
+2	he	_	_	PRP	he	_	PRP	3	SBJ	_	_	_	_	_	_
+3	is	be	_	VBZ	is	be	VBZ	1	SUB	_	_	_	_	_	_
+4	Britain	_	_	NNP	Britain	_	NNP	8	NMOD	_	A0	_	_	_	_
+5	's	_	_	POS	's	_	POS	4	SUFFIX	_	_	_	_	_	_
+6	greatest	great	_	JJS	greatest	great	JJS	8	NMOD	_	_	_	_	_	_
+7	living	living	_	NN	living	living	NN	8	NMOD	_	A1	_	_	_	_
+8	artist	artist	_	NN	artist	artist	NN	3	PRD	artist.01	_	_	_	_	_
+9	might	might	_	MD	might	might	MD	0	ROOT	_	_	AM-MOD	_	_	_
+10	be	be	_	VB	be	be	VB	9	VC	_	_	_	_	_	_
+11	disputed	dispute	_	VBN	disputed	dispute	VBN	10	VC	dispute.01	_	_	_	_	_
+12	by	_	_	IN	by	_	IN	11	LGS	_	_	A0	_	_	_
+13	Lucian	_	_	NNP	Lucian	_	NNP	14	NAME	_	_	_	_	_	_
+14	Freud	_	_	NNP	Freud	_	NNP	15	NMOD	_	_	_	A1	_	_
+15	devotees	devotee	_	NNS	devotees	devotee	NNS	12	PMOD	devotee.01	_	_	_	_	_
+16	and	_	_	CC	and	_	CC	15	COORD	_	_	_	_	_	_
+17	others	other	_	NNS	others	other	NNS	16	CONJ	_	_	_	_	_	_
+18	,	_	_	,	,	_	,	9	P	_	_	_	_	_	_
+19	but	_	_	CC	but	_	CC	9	COORD	_	_	_	_	_	_
+20	surely	_	_	RB	surely	_	RB	28	ADV	_	_	_	_	AM-ADV	_
+21	he	_	_	PRP	he	_	PRP	20	NMOD	_	_	_	_	_	_
+22	,	_	_	,	,	_	,	21	P	_	_	_	_	_	_
+23	and	_	_	CC	and	_	CC	21	COORD	_	_	_	_	_	_
+24	no	_	_	DT	no	_	DT	25	NMOD	_	_	_	_	_	_
+25	one	one	_	NN	one	one	NN	23	CONJ	_	_	_	_	_	_
+26	else	_	_	RB	else	_	RB	25	NMOD	_	_	_	_	_	_
+27	,	_	_	,	,	_	,	28	P	_	_	_	_	_	_
+28	holds	hold	_	VBZ	holds	hold	VBZ	19	CONJ	hold.01	_	_	_	_	SU
+29	the	_	_	DT	the	_	DT	30	NMOD	_	_	_	_	_	_
+30	title	title	_	NN	title	title	NN	28	OBJ	title.01	_	_	_	A1	_
+31	of	_	_	IN	of	_	IN	30	NMOD	_	_	_	_	_	A1
+32	Britain	_	_	NNP	Britain	_	NNP	35	NMOD	_	_	_	_	_	_
+33	's	_	_	POS	's	_	POS	32	SUFFIX	_	_	_	_	_	_
+34	Grumpiest	_	_	NNP	Grumpiest	_	NNP	35	NAME	_	_	_	_	_	_
+35	Artist	_	_	NNP	Artist	_	NNP	31	PMOD	_	_	_	_	_	_
+36	.	_	_	.	.	_	.	9	P	_	_	_	_	_	_
