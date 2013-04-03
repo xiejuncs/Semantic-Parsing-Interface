@@ -305,7 +305,10 @@ public class SemanticOutputInterface {
                         }
                         data.add(datum);
                 	}
-                	datas.put(sentenceOffset, data);
+			if (data.size() > 0) {
+                		datas.put(sentenceOffset, data); 
+			}
+
                 }
                 reader.close();
         } catch (Exception e) {
